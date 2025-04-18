@@ -1,0 +1,13 @@
+2025-04-10 10:03:42 [INFO] Starting server on port 8080...
+2025-04-10 10:03:43 [INFO] Database connection established.
+2025-04-10 10:03:45 [WARN] Cache miss for user: 84a1f
+2025-04-10 10:03:46 [INFO] Received request: GET /dashboard
+2025-04-10 10:03:47 [ERROR] Failed to load user profile: user_id=84a1f, reason=NullReferenceException
+2025-04-10 10:03:48 [INFO] Retrying request: GET /dashboard (attempt 1)
+2025-04-10 10:03:49 [INFO] Retrying request: GET /dashboard (attempt 2)
+2025-04-10 10:03:50 [ERROR] Request failed after 3 retries: GET /dashboard
+2025-04-10 10:04:01 [INFO] Server health check passed.
+2025-04-10 10:04:15 [INFO] Received request: POST /login
+2025-04-10 10:04:16 [WARN] Login attempt failed for user: johndoe@example.com
+2025-04-10 10:04:17 [ERROR] Rate limit exceeded for IP: 192.168.1.24
+2025-04-10 10:04:20 [INFO] Shutting down gracefully...

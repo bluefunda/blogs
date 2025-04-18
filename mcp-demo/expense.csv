@@ -1,0 +1,17 @@
+Date,Category,Description,Amount,Payment Method
+2024-01-05,Rent,Monthly apartment rent,1200,Debit Card
+2024-01-08,Groceries,Trader Joe's shopping,145.23,Credit Card
+2024-01-10,Utilities,Electricity bill,67.50,UPI
+2024-01-15,Entertainment,Netflix subscription,15.99,Credit Card
+2024-01-18,Transport,Gas refill,45.00,Credit Card
+2024-01-22,Groceries,Whole Foods purchase,98.70,Debit Card
+2024-01-25,Utilities,Water bill,30.40,UPI
+2024-01-28,Shopping,New shoes from Nike,89.99,UPI
+2024-01-30,Entertainment,Movie night,22.00,Cash
+2024-02-02,Medical,Pharmacy receipt,18.65,Debit Card
+2024-02-05,Rent,Monthly apartment rent,1200,Debit Card
+2024-02-09,Groceries,Walmart groceries,131.12,Credit Card
+2024-02-12,Transport,Uber ride,26.50,Credit Card
+2024-02-15,Shopping,Amazon order - headphones,59.99,UPI
+2024-02-20,Utilities,Gas bill,39.20,UPI
+2024-02-22,Entertainment,Spotify Premium,9.99,Credit Card
